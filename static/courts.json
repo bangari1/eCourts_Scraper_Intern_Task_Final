@@ -1,0 +1,29 @@
+{
+    "Delhi": {
+        "districts": {
+            "New Delhi": {
+                "complexes": ["Patiala House Courts", "Saket Courts", "Tis Hazari Courts"]
+            }
+        }
+    },
+    "Haryana": {
+        "districts": {
+            "Gurgaon": {
+                "complexes": ["Gurgaon District Courts"]
+            },
+            "Faridabad": {
+                "complexes": ["Faridabad District Courts"]
+            }
+        }
+    },
+    "Uttar Pradesh": {
+        "districts": {
+            "Lucknow": {
+                "complexes": ["Lucknow Civil Court"]
+            },
+            "Ghaziabad": {
+                "complexes": ["Ghaziabad District Court"]
+            }
+        }
+    }
+}
